@@ -74,17 +74,6 @@ This project includes **20 essential SQL questions** that reflect the insights v
 
 ---
 
-## 📁 Folder Structure
-📦 Swiggy-Analytics-Project/
-├── 📊 Dashboards/
-│ ├── Swiggy_Overview.png
-│ ├── User_Performance.png
-│ ├── City_Overview.png
-│ └── Restaurant_Analysis.png
-├── 📜 SQL_Questions.sql
-
----
-
 ## 🎯 How to Use
 
 1. Open Power BI and import the `.pbix` file or recreate visuals using provided screenshots.
