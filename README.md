@@ -16,8 +16,6 @@ This project presents a dynamic and interactive **Power BI dashboard** built to 
 ✅ City-wise Performance  
 ✅ Restaurant & Cuisine Insights  
 
-🔍 Plus: A list of **20 SQL interview-style questions** crafted from the dashboard visuals for practical learning!
-
 ---
 
 ## 📈 Key Dashboards
@@ -42,25 +40,7 @@ This project presents a dynamic and interactive **Power BI dashboard** built to 
 - Cuisine Breakdown & Price Analytics
 - Top Rated Brands (Domino’s, KFC, Pizza Hut)
 
----
-
-## 🧠 SQL Questions for Deep Analysis
-
-This project includes **20 essential SQL questions** that reflect the insights visualized in Power BI. Perfect for:
-
-- Interview prep
-- SQL practice
-- BI tool integration
-
-**Sample Questions:**
-1. What is the total number of orders placed on the platform?  
-2. List top 10 cities by sales amount.  
-3. What is the user count by age group?  
-4. Which cuisines generate the highest revenue?  
-5. What is the sales performance of male vs female users?
-
-> 💡 Full list of 20 questions available in `SQL_Questions.sql`
-
+  
 ---
 
 ## 🛠 Tech Stack
@@ -79,7 +59,6 @@ This project includes **20 essential SQL questions** that reflect the insights v
 1. Open Power BI and import the `.pbix` file or recreate visuals using provided screenshots.
 2. Connect your dataset or use mock data for practice.
 3. Filter insights using slicers (Gender, Year, City, Cuisine).
-4. Use the SQL questions to extract raw data behind the visuals.
 
 ---
 
