@@ -48,7 +48,6 @@ This project presents a dynamic and interactive **Power BI dashboard** built to 
 | Tool           | Purpose                         |
 |----------------|----------------------------------|
 | 🧩 Power BI     | Data Visualization & Dashboard   |
-| 🧠 SQL          | Querying & Data Analysis         |
 | 📊 Excel / CSV  | Mock Data Input                  |
 | 🌐 DAX          | Data Manipulation in Power BI    |
 
